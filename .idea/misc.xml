@@ -3,6 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.14 (aq20307)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="cmapss-rul-prediction" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
