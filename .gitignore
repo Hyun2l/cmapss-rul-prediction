@@ -30,4 +30,4 @@ notebooks/.ipynb_checkpoints
 *.h5
 
 # EDA 자동 생성 이미지/출력 폴더 (필요시 제외)
-notebooks/eda_outputs/
+notebooks/figures/
