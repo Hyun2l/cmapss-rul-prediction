@@ -31,3 +31,6 @@ notebooks/.ipynb_checkpoints
 
 # EDA 자동 생성 이미지/출력 폴더 (필요시 제외)
 notebooks/eda_outputs/
+
+# Build & Packaging
+*.egg-info/
